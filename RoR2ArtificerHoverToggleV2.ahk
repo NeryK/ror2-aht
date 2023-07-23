@@ -1,4 +1,4 @@
-﻿; Risk of Rain 2 Artificer ENV Suit toggle
+﻿; Risk of Rain 2 Artificer ENV Suit toggle v1.0
 ;
 ; This AutoHotkey v2 script is meant for use with a keyboard & mouse control scheme.
 ; Pressing the Left Ctrl key once emulates holding the jump key.
